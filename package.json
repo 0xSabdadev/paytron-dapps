@@ -1,0 +1,25 @@
+{
+  "name": "paytron-dapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xSabdadev/paytron-dapps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xSabdadev/paytron-dapps/issues"
+  },
+  "homepage": "https://github.com/0xSabdadev/paytron-dapps#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.3",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.4"
+  }
+}
